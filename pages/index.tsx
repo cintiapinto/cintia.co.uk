@@ -8,6 +8,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>Cintia</title>
+        <h1>Cintia is a frontend developer based in Melbourne.</h1>
         <meta name="description" content="cintia.co.uk" />
       </Head>
     </div>
