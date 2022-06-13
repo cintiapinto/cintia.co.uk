@@ -1,6 +1,5 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
@@ -8,9 +7,9 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>Cintia</title>
-        <h1>Cintia is a frontend developer based in Melbourne.</h1>
         <meta name="description" content="cintia.co.uk" />
       </Head>
+      <h1>Cintia Fortes Pinto is a frontend developer based in Melbourne.</h1>
     </div>
   )
 }
