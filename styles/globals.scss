@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Bitter';
+  src: url("/fonts/Bitter-Regular.ttf") format("truetype");
+}
+
+$font-stack: Bitter, serif;
+
+$primary-color: #19297C;
+$pink: #F500F1;
+$background-white: #F9F6F0;
+
+$grid-color: rgba(210, 179, 169, 0.3);
+
+body {
+  font: 100% $font-stack;
+
+  color: $primary-color;
+  background-color: $background-white;
+
+
+  background-size: 70px 70px;
+  background-image:
+    linear-gradient(to right, $grid-color 1px, transparent 1px),
+    linear-gradient(to bottom, $grid-color 1px, transparent 1px);
+}
+
+
+h1 {
+  font-size: 34px;
+  line-height: 48px;
+}
