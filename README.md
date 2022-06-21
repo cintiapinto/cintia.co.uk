@@ -1,5 +1,5 @@
-This is the repository for Cintia's personal [website](cintia.co.uk).
+This is the repository for Cintia's personal [website](https://cintia.co.uk).
 
-------------
+---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
