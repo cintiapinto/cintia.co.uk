@@ -9,8 +9,7 @@ const Home: NextPage = () => {
         <title>Cintia</title>
         <meta name="description" content="cintia.co.uk" />
       </Head>
-      <h1>Cintia Fortes Pinto is a frontend developer based in Melbourne.</h1>
-      <h4>Relocating to London in September 2022.</h4>
+      <h1>Cintia Fortes Pinto is a frontend developer based in London.</h1>
     </div>
   )
 }
